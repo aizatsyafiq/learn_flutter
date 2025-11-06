@@ -1,6 +1,27 @@
 # first_app
 
-A new Flutter project.
+A dice rolling app that demonstrates fundamental Flutter concepts.
+
+## Topics Covered
+
+- Importing packages and dependencies
+- How Flutter apps start (main.dart and runApp)
+- Using and combining widgets
+- Widget tree structure
+- Passing arguments in functions (positional and named parameters)
+- `const` and `final` keywords
+- Gradient colors and styling
+- Creating custom classes
+- Building custom widgets
+- Constructor functions
+- Using functions as values (callbacks)
+- Stateful widgets and state management
+- Generating random numbers
+- Styling widgets (colors, fonts, padding, alignment)
+- MaterialApp and Scaffold widgets
+- Container and Column widgets
+- Image and Text widgets
+- ElevatedButton and gesture handling
 
 ## Getting Started
 
