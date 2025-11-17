@@ -1,0 +1,8 @@
+# Generated plugin files
+**/generated_plugin_registrant.cc
+**/generated_plugin_registrant.h
+**/generated_plugins.cmake
+**/GeneratedPluginRegistrant.swift
+
+# VS Code settings
+.vscode/
